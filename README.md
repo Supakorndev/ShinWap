@@ -2,9 +2,9 @@
 This Application is adjust from Old Project WapMachinary Web Application
 to add more feature and change Tech Stack to typescript for maintanance easily and solve more business requirement
 # Install
-use npm install in frontend
+- use npm install in frontend
     - use "npm start" to start project
-use npm install in backend
+- use npm install in backend
     - use "nodemon index.js" to start project
 # Today
 - all backend service are completely (15/3/2023)
