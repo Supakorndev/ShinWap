@@ -9,3 +9,7 @@ to add more feature and change Tech Stack to typescript for maintanance easily a
 # Today
 - all backend service are completely (15/3/2023)
 - frontend complete in inventory page and transaction in Add and View (15/3/2023)
+# Will do in Future
+- create more backend with Java Springboot
+- to complete in Employee and Partner Page
+- adding API Gateway with Spring Eureka
